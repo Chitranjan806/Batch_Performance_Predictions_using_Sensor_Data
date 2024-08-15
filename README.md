@@ -1,4 +1,4 @@
-# Prediction of Batch Performanc of Machine Sensors
+# Batch Performance Predictions using Sensor Data
 ## Problem Statement
 Using the given data of input parameters that are the 55 sensors of machines performing in batches at every time period i.e recorded at 7 instances we will find the statistical dependency. 
 As this is a Regression problem to predict whether the machines are performing the best we have followed certain regression algorithms.
@@ -17,3 +17,12 @@ Using Linear Regression >> 0.17</b><br>
 
 ### Results 
 **The predictions with the test data were exported in a csv file, which was used by the submission portal to generate R2 scores**
+
+<hr>
+
+### Outcomes
+* <b>Operational Efficiency:</b>
+By identifying performance trends over time, the model helps optimize machine operations, reducing downtime and improving overall efficiency. This leads to cost savings and increased production output.
+
+* <b>Anomaly Detection:</b>
+The model could be used to flag potential issues when predictions fall outside expected ranges, indicating machines that may require attention.
